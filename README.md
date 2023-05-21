@@ -1,9 +1,8 @@
-![Triangle POS](public/images/logo-dark.png)
-> This Project is ready for Production. If you find any bug or have any suggestion please create an Issue.
+
 
 # Local Installation
 
-- run `` git clone https://github.com/FahimAnzamDip/triangle-pos.git ``
+- run `` git clone https://github.com/MochRafiFawaji/Kiossi-Sejahtera.git ``
 - run ``composer update `` 
 - run `` npm install ``
 - run ``npm run dev``
@@ -19,10 +18,7 @@
 
 # Admin Credentials
 > Email: admin@test.com || Password: 12345678
-
-## Demo
-![Triangle POS](public/images/screenshot.jpg)
-**Live Demo:** Work In Progress
+> Email: Rafi@gmail.com || Password: 12345678
 
 ## Triangle POS Features
 
